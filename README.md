@@ -1,4 +1,3 @@
-# COSK-1437-Grade-Calculator-Sp26
 # Grade Calculator (OOP Edition)
 
 A C++ console application that tracks graded items (homework, quizzes, exams),
