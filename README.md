@@ -43,4 +43,5 @@ Using g++ (Linux / macOS / WSL / MinGW):
 - C++17 or newer compiler (g++, clang, or MSVC)
 
 ## Course Concepts Demonstrated
-Chapters 11-18 of "Fundamentals of Programming C++ (Draft) by Richard L. Halterman, School of Computing, Southern Adventist University, September 25, 2018" plus four UX enhancement sprints (Labs 19-22).
+Chapters 11-18 of "Fundamentals of Programming C++ (Draft) by Richard L. Halterman,
+School of Computing, Southern Adventist University, September 25, 2018" plus four UX enhancement sprints (Labs 19-22).
