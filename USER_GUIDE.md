@@ -63,6 +63,30 @@ To run the program, first compile the source code using the instructions provide
 ### 0. Exit
 - **Function:** Gracefully exit the application.
 
+
+## Sprint Features
+Input Validation with Exceptions
+Auto-invoked: Ensures valid numeric inputs.
+Count Items by Category
+Access: Menu option 8 — view counts.
+Save and Load Grading Schemes
+Access: Save (option 9), Load (option 10).
+Range-Based Loops and auto Usage
+Integration: Enhances code clarity and performance.
+
+## Understanding Your Results
+Points-Based Grading: Direct total points comparison.
+Weighted Grading: Uses category weights for nuanced evaluation.
+
+## Known Limitations
+Incorrect numeric inputs may require re-entry.
+Unsaved data isn't retained after exiting.
+Troubleshooting
+Invalid Input: Re-enter valid numbers when prompted.
+Total Weights Incorrect: Ensure weights sum to 100% before saving.
+
+
+
 ## Sample Session
 ```plaintext
 Enter choice: 1
@@ -92,21 +116,4 @@ Total Earned: 85 / 100
 Overall: 85.0%
 Letter Grade: B
 
-Sprint Features
-Input Validation with Exceptions
-Auto-invoked: Ensures valid numeric inputs.
-Count Items by Category
-Access: Menu option 8 — view counts.
-Save and Load Grading Schemes
-Access: Save (option 9), Load (option 10).
-Range-Based Loops and auto Usage
-Integration: Enhances code clarity and performance.
-Understanding Your Results
-Points-Based Grading: Direct total points comparison.
-Weighted Grading: Uses category weights for nuanced evaluation.
-Known Limitations
-Incorrect numeric inputs may require re-entry.
-Unsaved data isn't retained after exiting.
-Troubleshooting
-Invalid Input: Re-enter valid numbers when prompted.
-Total Weights Incorrect: Ensure weights sum to 100% before saving.
+
