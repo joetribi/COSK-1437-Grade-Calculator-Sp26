@@ -14,10 +14,10 @@
  * Ch 17 - Inheritance + polymorphism: Homework / Quiz / Exam derive from GradedItem
  * Ch 18 - Smart pointers: std::vector<std::unique_ptr<GradedItem>>; GradingScheme struct
  *
- * Sprint 19 - Input validation with exceptions to reject non-numeric input
- * Sprint 20 - Function to count items by category for enhanced tracking
- * Sprint 21 - Save and load different grading schemes for flexibility
- * Sprint 22 - Use of range-based loops and 'auto' for improved code clarity
+ * Sprint 19 - Input validation with exceptions: Robust user input management by handling and rejecting non-numeric inputs
+ * Sprint 20 - Count items by category: Added functionality to count and display the number of items in each category for better organization and tracking
+ * Sprint 21 - Save and load grading schemes: Introduced flexibility to save different grading schemes and reload them as needed
+ * Sprint 22 - Range-based loops and 'auto': Enhanced code clarity and performance using range-based loops and the 'auto' keyword
  */
 
 #include <iostream>
