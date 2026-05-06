@@ -20,6 +20,15 @@ offering a comprehensive tool for academic evaluation.
 - Save and load grades to/from a text file
 - [List your sprint enhancements here]
 
+### Sprint Enhancements
+- Input Validation with Exceptions: Ensures valid numeric input to prevent crashes.
+- Count Items by Category: View the count of items in each category for better organization.
+- Save and Load Grading Schemes: Flexibility to save different grading schemes and reload as needed.
+- Range-Based Loops and `auto` Usage: Improves code clarity and performance.
+- Input validation to prevent invalid entries.
+- Display summaries and category counts for better insight.
+- Persistent scheme management with save/load functionality.
+
 ## Files
 | File         | Purpose                                          |
 |--------------|--------------------------------------------------|
