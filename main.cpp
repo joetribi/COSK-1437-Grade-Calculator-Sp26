@@ -1,3 +1,25 @@
+/*
+ * Grade Calculator (OOP Edition) — Final Project
+ * Author: Alexander Sjogreen
+ * Course: COSC 1437, Spring 2026
+ *
+ * Concepts Demonstrated (Chapters 11-18 + Sprints 19-22)
+ * ------------------------------------------------------
+ * Ch 11 - Foundation from COSC 1436: std::vector, control flow, modular code
+ * Ch 12 - <algorithm>: [name what you used, e.g., std::sort by percentage]
+ * Ch 13 - <fstream> file I/O: saveGrades() / loadGrades() to "grades.txt"
+ * Ch 14 - User-defined class: GradedItem with private fields + getters
+ * Ch 15 - Object refinement: parameterized constructor, getPercentage(), encapsulation
+ * Ch 16 - Menu-driven UI: switch statement, <iomanip> formatting, helper functions
+ * Ch 17 - Inheritance + polymorphism: Homework / Quiz / Exam derive from GradedItem
+ * Ch 18 - Smart pointers: std::vector<std::unique_ptr<GradedItem>>; GradingScheme struct
+ *
+ * Sprint 19 - Input validation with exceptions to reject non-numeric input
+ * Sprint 20 - Function to count items by category for enhanced tracking
+ * Sprint 21 - Save and load different grading schemes for flexibility
+ * Sprint 22 - Use of range-based loops and 'auto' for improved code clarity
+ */
+
 #include <iostream>
 #include <vector>
 #include <iomanip>
