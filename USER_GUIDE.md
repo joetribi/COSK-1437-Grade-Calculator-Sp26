@@ -85,7 +85,22 @@ Troubleshooting
 Invalid Input: Re-enter valid numbers when prompted.
 Total Weights Incorrect: Ensure weights sum to 100% before saving.
 
+## Troubleshooting
+### 1.Invalid Input Error:
+- **Problem:** A non-numeric input was entered when a number was expected.
+- **Solution:** The program will prompt you again. Re-enter a valid numeric value.
 
+### 2.Weights Not Summing to 100%:
+- **Problem:** The sum of the weights for Homework, Quizzes, and Exams does not equal 100%.
+- **Solution:** Ensure each category's weight is a valid percentage and verify they total 100% before saving.
+
+### 3.Points Exceeding Possible Points:
+- **Problem:** Entered points earned exceed the points possible for an item.
+- **Solution:** Adjust the earned points input to be less than or equal to the possible points.
+
+### 4.File Not Found When Loading Grading Scheme:
+- **Problem:** Attempting to load a grading scheme with a name that doesn't exist.
+- **Solution:** Verify the correct scheme name was entered or ensure the scheme is saved before loading.
 
 ## Sample Session
 ```plaintext
@@ -115,5 +130,4 @@ Enter choice: 5
 Total Earned: 85 / 100
 Overall: 85.0%
 Letter Grade: B
-
 
